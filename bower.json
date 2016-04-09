@@ -1,0 +1,21 @@
+{
+  "name": "backbone.ajax",
+  "homepage": "https://github.com/omegascorp/backbone.ajax",
+  "authors": [
+    "omegascorp <omegascorp@gmail.com>"
+  ],
+  "description": "Native javascript ajax replacement for Backbone.",
+  "main": "",
+  "keywords": [
+    "backbone",
+    "ajax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
